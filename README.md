@@ -10,7 +10,7 @@ This project is a visually appealing **ATM/Debit Card UI** designed using pure *
 - Branding with Mastercard-style circles
 - Layered background design using `z-index`
 - No JavaScript — purely HTML and CSS
-- 
+ 
 
 ## 📝 Note
 
@@ -20,4 +20,4 @@ This project is a visually appealing **ATM/Debit Card UI** designed using pure *
 
 ## 🚀 Live Preview
 
-🔗 [Click here to view the live project](https://your-username.github.io/atm-card-ui/)  
+🔗 [Click here to view the live project](https://lohithadamisetti123.github.io/ATM-Card-UI-design/)  
